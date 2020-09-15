@@ -25,3 +25,5 @@ this.verlaagenVoorraad = function () {
 Bij vraag 4 en 5 kan je in je html/console nummer defineren
 
 Ook moet je de parameters veranderen naar (item, aantal, omhoog, omlaag)
+
+https://github.com/MaxBouricius/Unit-testing
